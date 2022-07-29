@@ -1,5 +1,5 @@
 {
-  "name": "id-generator",
+  "name": "@dmkmrv/id-generator",
   "version": "1.0.0",
   "main": "index.js",
   "author": "Dominik Mrówka <dmrowka7@gmail.com>",
